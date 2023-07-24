@@ -3,7 +3,7 @@
 ### What Is This Project
 A simple landing page that developed by react with green theme.
 ## Live Demo
-  [![PlantMe](https://user-images.githubusercontent.com/78824988/177599683-5cddada6-4bf7-48f0-9e9f-cab98296e802.png)](https://final-plant-me.vercel.app/)
+  [![PlantMe](https://user-images.githubusercontent.com/78824988/177599683-5cddada6-4bf7-48f0-9e9f-cab98296e802.png)](https://plant-me-landing-page.vercel.app/)
 
 ## How Start Project In Local
 
